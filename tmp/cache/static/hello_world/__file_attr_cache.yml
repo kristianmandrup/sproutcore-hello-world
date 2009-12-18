@@ -1,7 +1,7 @@
 --- 
 /Users/kristianconsult/my_rails/projects/sproutcore-projs/hello_world/apps/hello_world/controllers/app.js: 
   scan_source: 
-    mtime: 1261127329
+    mtime: 1261127598
     value: []
 
 /Users/kristianconsult/my_rails/projects/sproutcore-projs/hello_world/apps/hello_world/main.js: 
@@ -9,7 +9,7 @@
     mtime: 1261090366
     value: []
 
-/Users/kristianconsult/my_rails/projects/sproutcore-projs/hello_world/apps/hello_world/resources/loading.rhtml: 
+/Users/kristianconsult/my_rails/projects/sproutcore-projs/hello_world/apps/hello_world/core.js: 
   scan_source: 
     mtime: 1261090366
     value: []
@@ -19,7 +19,7 @@
     mtime: 1261127454
     value: []
 
-/Users/kristianconsult/my_rails/projects/sproutcore-projs/hello_world/apps/hello_world/core.js: 
+/Users/kristianconsult/my_rails/projects/sproutcore-projs/hello_world/apps/hello_world/resources/loading.rhtml: 
   scan_source: 
     mtime: 1261090366
     value: []
