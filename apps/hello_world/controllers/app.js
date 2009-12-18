@@ -24,6 +24,12 @@ HelloWorld.appController = SC.Object.create(
 
 	  this.set('greeting', newGreeting);
 
-	}	
+	},
+	isClockShowing: NO,
+	isClockShowingObserver: function() { 
+		var isClockShowing = this.get('isClockShowing') ; 
+		var newGreeting = (isClockShowing) ? 'CLOCK!' : 'Hello World!' ; 
+		this.set('greeting', newGreeting) ; 
+	}.observes('isClockShowing')		
 
 }) ;

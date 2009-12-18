@@ -1,6 +1,6 @@
 .DS_Store
 log/*.log
-tmp/*
+tmp
 tmp/cache/static 
 tmp/debug/build tmp/debug/staging
 config/database.yml
