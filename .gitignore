@@ -1,5 +1,7 @@
 .DS_Store
 log/*.log
-tmp/cache/static tmp/debug/build tmp/debug/staging
+tmp/*
+tmp/cache/static 
+tmp/debug/build tmp/debug/staging
 config/database.yml
 db/*.sqlite3
